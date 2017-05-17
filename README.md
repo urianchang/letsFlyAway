@@ -14,7 +14,7 @@ Fly around the sky in a dirigible or kite. Be a hero by collecting lost balloons
 
 ### Technologies used in this project:
   * Language: Swift (v3)
-  * IDE: Xcode 8.2.1 & 
+  * IDE: Xcode 8.2.1 
   * Frameworks: UIKit, SpriteKit, GameplayKit, and CoreMotion
 
 ### Credits:
